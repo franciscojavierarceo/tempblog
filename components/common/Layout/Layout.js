@@ -23,7 +23,7 @@ export function Layout({ children }) {
 
 const name = 'Francisco Javier Arceo'
 export const siteTitle = "Francisco's personal site built with Next.js"
-export const siteDescription = "Francisco Javier Arceo's personal website"
+export const siteDescription = "My chaotic thoughts on computers, statistics, finance, and data"
 export const siteKeywords = "francisco javier arceo, data science, finance, fintech, engineering, django, python"
 
 const Header = () => {  
