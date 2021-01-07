@@ -50,7 +50,6 @@ const Header = () => {
         "mb-2": !isRoot,
       })}
     >
-    <link rel="icon" href="/favicon.ico" />
     <meta name="description" content={siteDescription}/>
     <meta name="keywords" content={siteKeywords}/>
     <meta property="og:type" content="website" />
