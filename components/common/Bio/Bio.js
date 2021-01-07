@@ -13,6 +13,7 @@ export function Bio({ className }) {
     <img
       src={require("../../../content/assets/profile.png")}
       style={{width: '6rem', borderRadius: '9999px'}}
+      alt={'Francisco Javier Arceo'}
       />
       <h2 style={{fontSize: '2.0rem', marginLeft: '2rem', textAlign: 'center'}}>Hello there! &#128075;</h2>
     </div>
